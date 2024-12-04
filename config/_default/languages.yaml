@@ -12,11 +12,11 @@ en:
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  title: 刘信典律师
+  params:
+    description: 刘信典律师在山东地区执业，主要执业方向为劳动争议
+  menu:
+    main:
+      - name: 传
+        url: '#about'
+        weight: 1
