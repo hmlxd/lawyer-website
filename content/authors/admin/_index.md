@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 刘律师
+title: 刘信典
 
 # Name pronunciation (optional)
 name_pronunciation: Liu Hsin Tien
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Attorney
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: HM Law Firm
+    url: https://sdhm.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 劳动争议
+  - 刑事辩护
+  - 婚姻家事
 
 education:
   - area: PhD Artificial Intelligence
