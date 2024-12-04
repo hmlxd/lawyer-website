@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 刘信典
+title: 刘 信 典
 
 # Name pronunciation (optional)
 name_pronunciation: Liu Hsin Tien
